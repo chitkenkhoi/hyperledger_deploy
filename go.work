@@ -1,0 +1,6 @@
+go 1.20
+
+use(
+    "artifacts/src/github.com/fabcar/go"
+    "artifacts/src/github.com/fabcar_contract_api/go"
+)
